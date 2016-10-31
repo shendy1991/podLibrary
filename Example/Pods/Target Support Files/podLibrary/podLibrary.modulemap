@@ -1,0 +1,6 @@
+framework module podLibrary {
+  umbrella header "podLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
